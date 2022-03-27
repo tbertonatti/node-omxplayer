@@ -22,7 +22,7 @@ player.quit();
 ## Installation
 
 ```
-npm install node-omxplayer
+npm install tbertonatti/node-omxplayer
 ```
 
 This module does not require any third party Node.js libraries, but does rely on omxplayer being installed. On the default version of Raspbian it is installed by default, but on the Lite version you will have to install it:
